@@ -14,7 +14,7 @@ import platform
 import elevenlabs
 from elevenlabs.client import ElevenLabs
 
-ELEVENLABS_API_KEY=os.environ.get("ELEVENLABS_API_KEY")
+ELEVENLABS_API_KEY=os.environ.get("sk_8a26a18e4113cd7c0bb8bfe6f88f44e173f48aea10d1c889")
 
 
 
