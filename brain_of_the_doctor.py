@@ -4,7 +4,7 @@ load_dotenv()
 #Step1: Setup GROQ API key
 import os
 
-GROQ_API_KEY=os.environ.get("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")
+GROQ_API_KEY=os.environ.get("")
 
 #Step2: Convert image to required format
 import base64
